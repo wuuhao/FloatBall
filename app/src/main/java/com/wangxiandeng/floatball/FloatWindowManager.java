@@ -5,11 +5,6 @@ import android.graphics.PixelFormat;
 import android.view.Gravity;
 import android.view.WindowManager;
 import android.view.WindowManager.LayoutParams;
-
-/**
- * Created by wangxiandeng on 2016/11/25.
- */
-
 public class FloatWindowManager {
     private static FloatBallView mBallView;
 

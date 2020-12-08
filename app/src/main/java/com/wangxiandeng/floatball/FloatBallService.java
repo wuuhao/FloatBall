@@ -5,10 +5,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.accessibility.AccessibilityEvent;
 
-/**
- * Created by wangxiandeng on 2016/11/25.
- */
-
 public class FloatBallService extends AccessibilityService {
     public static final int TYPE_ADD = 0;
     public static final int TYPE_DEL = 1;

@@ -14,10 +14,6 @@ import android.widget.LinearLayout;
 
 import java.lang.reflect.Field;
 
-/**
- * Created by wangxiandeng on 2016/11/25.
- */
-
 public class FloatBallView extends LinearLayout {
     private ImageView mImgBall;
     private ImageView mImgBigBall;
